@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://birendramagar.vercel.app/](https://www.birendramagar.com.np/)
+- 👨‍💻 All of my projects are available at [https://www.birendramagar.com.np/](https://www.birendramagar.com.np/)
 
 - 💬 Ask me about **React, NextJs**
 
